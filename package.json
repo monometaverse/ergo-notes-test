@@ -15,7 +15,10 @@
     "hardhat": "^2.12.2"
   },
   "dependencies": {
+    "@alch/alchemy-web3": "^1.4.7",
     "@openzeppelin/contracts": "^4.7.3",
-    "dotenv": "^16.0.3"
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
   }
 }
